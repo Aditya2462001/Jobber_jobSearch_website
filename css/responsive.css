@@ -1,0 +1,228 @@
+@media only screen and (max-width:1062px)
+{
+    .about_us
+    {
+        width: 30%;
+    }
+    .upper_section .services
+    {
+        width: 25%;
+    }
+    .upper_section .contact_us_section
+    {
+        width: 25%;
+
+    }
+    .upper_section .follow_us_section
+    {
+        width:100%;
+    }
+
+
+}
+@media only screen and (max-width:1033px)
+{
+    .logoSection
+    {
+        width: 30%;
+    }
+    .menu_Section
+    {
+        width: 45%;
+    }
+
+}
+@media only screen and (max-width:1008px)
+{
+    .menu_Section
+    {
+        width: 50%;
+    }
+    /* .menu_Section ul li a */
+
+}
+@media only screen and (max-width:962px)
+{
+    .logoSection
+    {
+        width: 20%;
+    }
+    .logoSection .logoImage
+    {
+        margin: 0px 5px;
+    }
+    .menu_Section
+    {
+        width: 60%;
+    }
+    .about_us
+    {
+        width: 50%;
+    }
+     .about_us p
+     {
+         width: 80%;
+     }
+    .upper_section .services
+    {
+        width: 30%;
+    }
+    .upper_section .contact_us_section
+    {
+        width: 100%;
+
+    }
+    /* .menu_Section ul li a */
+
+}
+
+@media only screen and (max-width:795px)
+{
+    .logoSection
+    {
+        width: 20%;
+    }
+    .logoSection .logoImage
+    {
+        margin: 0px;
+    }
+    .menu_Section
+    {
+        width: 40%;
+    }
+    .menu_Section ul li a span
+    {
+        display: none;
+    }
+    .menu_Section ul li a #fas
+    {
+        font-size:25px;
+        transform: scale(1);
+
+    }
+    #search_Section .heading_section h1
+    {
+        font-size: 2.2rem;
+    }
+    #search_Section .heading_section p
+    {
+        padding: 0px 20px;
+    }
+
+    #search_Section
+    {
+        padding-top: 10rem;
+    }
+    #search_Section .search_container .searchBox
+    {
+        width: 60%;
+
+    }
+    /* .menu_Section ul li a */
+    .card:hover
+    {
+        transform: translateZ(1px);
+    }
+
+}
+@media only screen and (max-width:620px)
+{
+      .about_us
+    {
+        width: 100%;
+    }
+     .about_us p
+     {
+         width: 80%;
+     }
+    .upper_section .services
+    {
+        width: 100%;
+    }
+    .upper_section .contact_us_section
+    {
+        width: 100%;
+
+    }
+
+}
+@media only screen and (max-width:537px)
+{
+    .logoSection
+    {
+        width: 30%;
+        margin-left: 0px;
+    }
+    .menu_Section
+    {
+        width: 40%;
+    }
+       .menu_Section ul li a #fas
+    {
+        font-size:20px;
+        transform: scale(1);
+
+    }
+    #search_Section .heading_section h1
+    {
+        font-size: 1.8rem;
+    }
+    #search_Section .heading_section p
+    {
+        padding: 0px 20px;
+        font-size: 15px;
+    }
+    #search_Section .search_container .searchBox
+    {
+        width: 60%;
+
+    }
+    /* .menu_Section ul li a */
+
+}
+@media only screen and (max-width:418px)
+{
+    .scroll_top_conatiner
+    {
+        display: none;
+    }
+    .logoSection .logoImage
+    {
+        width: 40px;
+        height: 35px;
+        margin: 0px;
+    }
+    .logoSection .logoImage img
+    {
+         width: 40px;
+        height: 35px;
+
+    }
+    .logoSection .logoname h2
+    {
+        padding: 0px 15px;
+        font-size: 22px;
+    }
+    .menu_Section
+    {
+        width: 70%;
+    }
+    .menu_Section ul li
+    {
+        padding: 20px 10px;
+    }
+    .menu_Section ul li a #fas
+    {
+        font-size: 15px;
+    }
+    #search_Section
+    {
+        padding-top: 8rem;
+    }
+    #search_Section .search_container .searchBox
+    {
+        width: 80%;
+    }
+
+
+}
